@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useRef, useEffect } from "react";
 import { Container } from 'reactstrap';
 import logo from "../../assets/images/res-logo.png";
 import { NavLink, Link } from "react-router-dom";
@@ -26,8 +26,29 @@ const nav__links = [
 
 const Header = () =>
 {
+    const menuRef = useRef( null );
+    const headerRef = useRef( null )
+    useEffect( () =>
+    {
+        window.addEventListener( "scroll", () =>
+        {
+            if (
+                document.body.scrollTop > 80 ||
+                document.documentElement.scrollTop > 80
+            )
+            {
+                headerRef.current.classList.add( "header__shrink" );
+            } else
+            {
+                headerRef.current.classList.remove( "header__shrink" );
+            }
+        } );
+
+        return () => window.removeEventListener( "scroll" ,null);
+    }, [] );
+    const toggleMenu = () => menuRef.current.classList.toggle( "show__menu" );
   return (
-      <header className='header'>
+      <header className='header' ref={ headerRef }>
           <Container>
               <div className="nav_wrapper d-flex align-items-center justify-content-between">
                   <div className='logo'>
@@ -36,7 +57,7 @@ const Header = () =>
                   </div>
 
                   {/* ======= menu ======= */ }
-                  <div className='navigation'>
+                  <div className='navigation' ref={ menuRef }  >
                       <div className="menu d-flex align-items-center gap-5">
                           {
                               nav__links.map( ( item,index )=>(
@@ -49,8 +70,8 @@ const Header = () =>
                   </div>
 
                   {/* ======== nav right icons ========= */ }
-                  <div className='nav_right t d-flex align-items-center gap-4"'>
-                      <span className='cart_icon'>
+                  <div className='nav__right d-flex align-items-center gap-4'>
+                      <span className='cart__icon'>
                           <i class="ri-shopping-basket-line"></i>
                           <span className="cart__badge">2</span>
                       </span>
@@ -61,7 +82,7 @@ const Header = () =>
                           </Link>
                       </span>
 
-                      <span className="mobile__menu" >
+                      <span className="mobile__menu" onClick={ toggleMenu }>
                           <i class="ri-menu-line"></i>
                       </span>
                   </div>
