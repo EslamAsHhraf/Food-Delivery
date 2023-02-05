@@ -78,29 +78,29 @@ const Footer = () =>
               <p className="m-0">Follow: </p>
               <span>
                 { " " }
-                <Link to="https://www.facebook.com/profile.php?id=100008920246590">
+                <a href="https://www.facebook.com/profile.php?id=100008920246590" target="_blank">
                   <i class="ri-facebook-line"></i>
-                </Link>{ " " }
+                </a>{ " " }
               </span>
 
               <span>
-                <Link to="https://github.com/EslamAsHhraf">
+                <a href="https://github.com/EslamAsHhraf" target="_blank">
                   <i class="ri-github-line"></i>
-                </Link>
+                </a>
               </span>
 
               <span>
                 { " " }
-                <Link to=" https://www.youtube.com/c/MuhibsTechDiary">
+                <a href=" https://www.youtube.com/c/MuhibsTechDiary" target="_blank">
                   <i class="ri-youtube-line"></i>
-                </Link>{ " " }
+                </a>{ " " }
               </span>
 
               <span>
                 { " " }
-                <Link to=" https://www.linkedin.com/in/eslam-ashraf-b70880216/">
+                <a href=" https://www.linkedin.com/in/eslam-ashraf-b70880216/" target="_blank">
                   <i class="ri-linkedin-line"></i>
-                </Link>{ " " }
+                </a>{ " " }
               </span>
             </div>
           </Col>
