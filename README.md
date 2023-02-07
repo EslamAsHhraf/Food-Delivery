@@ -1,20 +1,23 @@
-# <img  align="center" width= 65px  src="https://logos-world.net/wp-content/uploads/2021/11/Udemy-Emblem.png"> Food Delivery
+# <img  align="center" width= 60px  src="https://media1.giphy.com/media/Pj19z6yzCpa1oQEvhe/giphy.gif?cid=ecf05e47ssf55s70xbvh6vb9eyw24e04t7vdxd5iwrj4gn8b&rid=giphy.gif&ct=s"> Food Delivery
 
 
 <div align="center">
 
-<img height=350px src="https://about.udemy.com/wp-content/uploads/2022/03/TURBO-ANIMATION-CONCEPT.gif">
+<img width=600px src="https://cdn.dribbble.com/users/1890021/screenshots/8576649/foodbiker-dribbble_thumb.gif">
+
 <div align="center"  width=10%>
 
+### "The customer is always right 🎯"
+
 </div>
 </div>
 
-<hr style="background-color: #4b4c60"></hr>
 
-## <img align= center width=50px height=50px src="https://user-images.githubusercontent.com/71986226/154075883-2a5679d2-b411-448f-b423-9565babf35aa.gif"> Table of Contents
+## <img align= center width=50px height=50px src="https://thumbs.gfycat.com/HeftyDescriptiveChimneyswift-size_restricted.gif"> Table of Contents
 
 - <a href ="#about"> 📙 Overview</a>
 - <a href ="#Started"> 💻 Get Started</a>
+- <a href ="#features"> 🔍 Features</a>
 - <a href ="#Video"> 🎥 Demo</a>
 - <a href ="#Contributors"> ✨ Contributors</a>
 - <a href ="#License"> 🔒 License</a>
@@ -26,14 +29,14 @@
 <ul>
  <li>
 
-It is task in intern in bld.ai. It is **Building Udemy** website using **React.JS**, you can view courses ,content and instructor etc...,you can like and dislike comments. </li>
+Food-Delivery is food ordering website using React, Redux toolkit and ReactStrap. You can make order of your favorited food like Pizaa ,Burger and bread. </li>
 
  <li> The Project is built by
  <ul>
-    <li> React.js </li>
-    <li> RRedux Toolkit </li>
-    <li>ReactStrap </li>
-    <li> CSS </li>
+    <li> <a href="https://reactjs.org/">React.js</a> </li>
+    <li> <a href="https://redux-toolkit.js.org/">Redux Toolkit</a> </li>
+    <li> <a href="https://reactstrap.github.io/">ReactStrap</a> </li>
+    <li> <a href="https://en.wikipedia.org/wiki/CSS">CSS</a> </li>
    </ul>
    </li>
 </ul>
@@ -47,27 +50,44 @@ It is task in intern in bld.ai. It is **Building Udemy** website using **React.J
 
 <br>
 
-```
-git clone https://github.com/EslamAsHhraf/Project-Two-bld-Eslam
+```sh
+git clone https://github.com/EslamAsHhraf/Food-Delivery
 ```
 
 </li>
 <li>Open terminal</li>
 <li>
 
-```
+```sh
 npm install
 ```
 
 </li>
 <li>
 
-```
+```sh
 npm start
 ```
 
 </li>
 </ol>
+
+<hr style="background-color: #4b4c60"></hr>
+
+
+<a id ="features"></a>
+
+## <img  align= center width= 70px height =70px src="https://media1.giphy.com/media/NnSFnC428LRHaxUNzj/giphy.gif?cid=ecf05e47r1hlw9wrf1swakc9gxgn508lyzvbyzgp9i1iyvwl&rid=giphy.gif&ct=s"> Features  
+
+- 🛒 Add to cart functionality
+- 🛍️ Shopping cart functionality
+- 🗃️ Product Filtering functionality
+- 📄 Product page
+- 📃 Cart and checkout page
+- 🚧 Contact page
+- 🙎 Login and Register page
+- 🌇 Awesome modern minimalist UI
+
 
 <hr style="background-color: #4b4c60"></hr>
 <a id ="Video"></a>
@@ -82,7 +102,7 @@ npm start
 <hr style="background-color: #4b4c60"></hr>
 <a id ="Contributors"></a>
 
-## <img align="center"  height =60px src="https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif"> Contributors
+## <img align="center"   width= 70px height =55px src="https://media0.giphy.com/media/Xy702eMOiGGPzk4Zkd/giphy.gif?cid=ecf05e475vmf48k83bvzye3w2m2xl03iyem3tkuw2krpkb7k&rid=giphy.gif&ct=s"> Contributors
 
 <br>
 <table >
@@ -97,46 +117,9 @@ npm start
 
 ## 🔒 License
 
-> **Note**: This software is licensed under MIT License, See [License](https://github.com/EslamAsHhraf/Udemy/blob/main/LICENSE) for more information ©EslamAsHhraf.
+> **Note**: This software is licensed under MIT License, See [License](https://github.com/EslamAsHhraf/Food-Delivery/blob/main/LICENSE) for more information ©EslamAsHhraf.
 
 
 
-## Food Ordering App
-
-### Features:
-
----
-
-##### Here's features included in this project
-
-- Add to cart functionality
-- Shopping cart functionality
-- Product Filtering functionality
-- Product page
-- Cart and checkout page
-- Contact page
-- Login and Register page
-- Awesome modern minimalist UI
-
-### Technologies Used:
-
----
 
 
-
-### How to start?
-
----
-
-##### To start the project along with me just download the start-up file and run available script
-
-```javascript
-// first install all necessary dependencies
-
-npm i
-
-// next run
-
-npm start
-
-```
