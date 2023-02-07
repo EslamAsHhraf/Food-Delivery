@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img width=600px src="https://i.pinimg.com/originals/6c/9e/19/6c9e197129299c5af04d8ad1173ad9b9.gif">
+<img width=600px src="https://cdn.dribbble.com/users/330915/screenshots/2258772/4_ny_b.gif">
 
 <div align="center"  width=10%>
 
@@ -103,7 +103,7 @@ npm start
 <hr style="background-color: #4b4c60"></hr>
 <a id ="Contributors"></a>
 
-## <img align="center"   width= 70px height =55px src="https://media0.giphy.com/media/Xy702eMOiGGPzk4Zkd/giphy.gif?cid=ecf05e475vmf48k83bvzye3w2m2xl03iyem3tkuw2krpkb7k&rid=giphy.gif&ct=s"> Contributors
+## <img align="center"   width= 70px height =55px src="https://user-images.githubusercontent.com/71986226/217372919-67bfb236-f9cb-4b8b-8b14-3e0d1d6d849e.mp4"> Contributors
 
 <br>
 <table >
