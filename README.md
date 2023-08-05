@@ -16,11 +16,11 @@
 ## <img align= center width=50px height=50px src="https://thumbs.gfycat.com/HeftyDescriptiveChimneyswift-size_restricted.gif"> Table of Contents
 
 - <a href ="#about"> 📙 Overview</a>
-- <a href ="#Started"> 💻 Get Started</a>
+- <a href ="#started"> 💻 Get Started</a>
 - <a href ="#features"> 🔍 Features</a>
-- <a href ="#Video"> 🎥 Demo</a>
-- <a href ="#Contributors"> ✨ Contributors</a>
-- <a href ="#License"> 🔒 License</a>
+- <a href ="#video"> 🎥 Demo</a>
+- <a href ="#contributors"> ✨ Contributors</a>
+- <a href ="#license"> 🔒 License</a>
 <hr style="background-color: #4b4c60"></hr>
 <a id = "about"></a>
 
