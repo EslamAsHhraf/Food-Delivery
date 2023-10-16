@@ -1,4 +1,4 @@
-# <img  align="center" width= 60px  src="https://media1.giphy.com/media/Pj19z6yzCpa1oQEvhe/giphy.gif?cid=ecf05e47ssf55s70xbvh6vb9eyw24e04t7vdxd5iwrj4gn8b&rid=giphy.gif&ct=s"> Food Delivery
+# 🍕 Food Delivery
 
 
 <div align="center">
@@ -13,7 +13,7 @@
 </div>
 
 
-## <img align= center width=50px height=50px src="https://thumbs.gfycat.com/HeftyDescriptiveChimneyswift-size_restricted.gif"> Table of Contents
+## 📝 Table of Contents
 
 - <a href ="#about"> 📙 Overview</a>
 - <a href ="#started"> 💻 Get Started</a>
@@ -24,7 +24,7 @@
 <hr style="background-color: #4b4c60"></hr>
 <a id = "about"></a>
 
-## <img align="center"  height =50px src="https://user-images.githubusercontent.com/71986226/154076110-1233d7a8-92c2-4d79-82c1-30e278aa518a.gif"> Overview
+## 📙 Overview
 
 <ul>
  <li>
@@ -44,7 +44,7 @@ Food-Delivery is food ordering website using React, Redux toolkit and ReactStrap
 <hr style="background-color: #4b4c60"></hr>
 <a id = "Started"></a>
 
-## <img  align= center width=50px height=50px src="https://c.tenor.com/HgX89Yku5V4AAAAi/to-the-moon.gif"> Get Started
+## 🚀 Get Started
 
 <ol>
 <li>Clone the repository.
@@ -78,7 +78,7 @@ npm start
 
 <a id ="features"></a>
 
-## <img  align= center width= 70px height =70px src="https://media1.giphy.com/media/NnSFnC428LRHaxUNzj/giphy.gif?cid=ecf05e47r1hlw9wrf1swakc9gxgn508lyzvbyzgp9i1iyvwl&rid=giphy.gif&ct=s"> Features  
+## 🔎 Features  
 
 - 🛒 Add to cart functionality
 - 🛍️ Shopping cart functionality
@@ -93,7 +93,7 @@ npm start
 <hr style="background-color: #4b4c60"></hr>
 <a id ="Video"></a>
 
-## <img  align= center width= 70px height =70px src="https://img.genial.ly/5f91608064ad990c6ee12237/bd7195a3-a8bb-494b-8a6d-af48dd4deb4b.gif?genial&1643587200063"> Demo
+## 🎥 Demo
 
 <div  align="center">
 <video src="https://user-images.githubusercontent.com/71986226/217372919-67bfb236-f9cb-4b8b-8b14-3e0d1d6d849e.mp4">
@@ -103,7 +103,7 @@ npm start
 <hr style="background-color: #4b4c60"></hr>
 <a id ="Contributors"></a>
 
-## <img align="center"   width= 70px height =55px src="https://media0.giphy.com/media/Xy702eMOiGGPzk4Zkd/giphy.gif?cid=ecf05e475vmf48k83bvzye3w2m2xl03iyem3tkuw2krpkb7k&rid=giphy.gif&ct=s"> Contributors
+## 👑 Contributors
 
 <br>
 <table >
